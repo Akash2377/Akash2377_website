@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/014.jpg";
+import myImg from "../../Assets/014.png";
 
 function Home2() {
   return (
@@ -47,7 +47,7 @@ function Home2() {
               style={{
                 marginTop: "-60px",
                 height: "415px",
-                borderRadius: "315px",
+                borderRadius: "5%",
                 width: "337px",
               }}
               className="img-fluid"
